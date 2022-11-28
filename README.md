@@ -1,17 +1,20 @@
 # Hi there friends👋
 
 ## My name is Princess Ogunka
-### I'm a passionate creative. A Technical Writer and developer✍ , dedicated to leading and inspiring upcoming talents. I love to utilize time wisely, therefore i'm always doing or creating something.
-#### I'm big on learning something new everyday. I love being part of minds that give back to the community. Open-Source contribution and community development are my new found passion!
-#### 🌱 I’m currently learning JavaScript and React.js
-#### 👯 I’m looking to collaborate on Open-Source projects
-#### ⚡ Fun fact: I'm an avid reader, I love designing homes, absolutely absolutely love art works and travelling 
-#### 🎸 Would love: To know how to play a piano someday😊
-####🙂I'm open to internship roles 😊
-####📫 You can reach me via my socials below 👇
+I'm a passionate creative. A Technical Writer and developer✍ , dedicated to leading and inspiring upcoming talents. I love to utilize time wisely, therefore i'm always doing or creating something.
+I'm big on learning something new everyday. I love being part of minds that give back to the community. Open-Source contribution and community development are my new found passion!
+🌱 I’m currently learning JavaScript and React.js
+ 👯 I’m looking to collaborate on Open-Source projects
+⚡ Fun fact: I'm an avid reader, I love designing homes, absolutely absolutely love art works and travelling 
+ 🎸 Would love: To know how to play a piano someday😊
+🙂I'm open to internship roles 😊
+📫 You can reach me via my socials below 👇
 ####✍ Read my articles @ https://hashnode.com/@princessogunka
 
+
+#Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princessbillions&layout=compact)](https://github.com/princessbillions/github-readme-stats)
+
 
 ![Princess's GitHub stats](https://github-readme-stats.vercel.app/api?username=princessbillions&show_icons=true&theme=material-palenight)
 [![princess's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=princessbillions&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/princessbillions/github-readme-stats#gh-dark-mode-only)
