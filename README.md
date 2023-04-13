@@ -1,4 +1,4 @@
-# Hi there friends👋
+# Hi there 👋
 
 ## My name is Princess Ogunka
 * I'm a passionate creative. A Technical Writer,and developer✍ , dedicated to learning and improving, to add value, with hopes to lead and inspire upcoming talents. I love to utilize time wisely, therefore i'm always doing or creating something.
