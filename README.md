@@ -9,7 +9,7 @@
 * 🎸 Would love: To know how to play a piano someday😊
 * 🙂I'm open to internship roles 😊
 * 📫 You can reach me via my socials below 👇
-
+https://twitter.com/princessogunka
 ####✍ Read my articles @ https://hashnode.com/@princessogunka
 
 # Tech Stacks 
