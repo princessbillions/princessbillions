@@ -9,13 +9,12 @@
 * 🙂I'm open to internship roles 😊
 * 📫 You can reach me via my socials below 👇
 https://twitter.com/princessogunka
-####✍ Read my articles @ https://hashnode.com/@princessogunka
+✍ Read my articles @ https://hashnode.com/@princessogunka
 
 # Tech Stacks 
 * HTML5
 * Css
 * Javascript
-* C
 
 # Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princessbillions&layout=compact)](https://github.com/princessbillions/github-readme-stats)
